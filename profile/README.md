@@ -22,3 +22,22 @@ curl -X POST https://api.junipr.io/v1/screenshot \
 ```
 
 Sign up at [junipr.io](https://junipr.io) to get your API key.
+
+### Repositories
+
+| Repo | Description |
+|------|-------------|
+| [junipr-node](https://github.com/junipr-labs/junipr-node) | Node.js client library |
+| [junipr-python](https://github.com/junipr-labs/junipr-python) | Python client library |
+| [openapi](https://github.com/junipr-labs/openapi) | OpenAPI specification |
+| [examples](https://github.com/junipr-labs/examples) | Usage examples and recipes |
+
+### Links
+
+- [junipr.io](https://junipr.io) — Main site
+- [docs.junipr.io](https://docs.junipr.io) — API documentation
+- [api.junipr.io](https://api.junipr.io) — API base URL
+
+---
+
+[Get your API key](https://junipr.io) and start building.
